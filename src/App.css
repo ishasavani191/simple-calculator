@@ -1,0 +1,34 @@
+.cal{
+
+			background-color: black;
+			width: 260px;
+			height: 400px;
+			margin: auto;
+			border-radius: 10px;
+			
+}
+.pad{
+  margin-top: 40px;
+}
+.dis{
+  width: 253px;
+  border-top-right-radius:px;
+  height: 100px;
+  margin-bottom: 10px;
+  background-color: rgb(171, 169, 169);
+  text-align: end;
+  font-size: 33px;
+}
+.btn{
+  padding: 11px 15px;
+  margin: 7px 9px;
+}
+  .btn1{
+    padding: 11px 12px;
+    margin: 7px 10px;
+  }
+  .equal{
+    
+    padding: 10px 50px;
+    margin: 7px ;
+  }
